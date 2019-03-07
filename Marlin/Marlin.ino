@@ -1,7 +1,7 @@
 /*
 ================================================================================
 
-  Marlin Firmware
+  Marlin Firmware - Ender 3 with BLTouch
 
   (c) 2011-2018 MarlinFirmware
   Portions of Marlin are (c) by their respective authors.
